@@ -15,4 +15,7 @@ return {
   { import = "astrocommunity.colorscheme.oxocarbon-nvim" }, 
   { import = "astrocommunity.colorscheme.nightfox-nvim" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.motion.harpoon" },
+  { import = "astrocommunity.media.vim-wakatime" },
+  { import = "astrocommunity.media.presence-nvim" }
 }

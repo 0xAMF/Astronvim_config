@@ -37,4 +37,7 @@ return {
     -- setting a mapping to false will disable it
     -- ["<esc>"] = false,
   },
+  v = {
+    ["<leader>p"] = { "\"_dP" , desc = {"replace without changing the buffer"}}
+  },
 }
